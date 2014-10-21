@@ -1,0 +1,9 @@
+{
+  "name": "ssx-pushover",
+  "description": "Testing node app",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "node-pushover": "0.2.*"
+  }
+}
